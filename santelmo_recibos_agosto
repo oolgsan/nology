@@ -3,6 +3,7 @@
 -- Versión del servidor:         5.7.41 - MySQL Community Server (GPL)
 -- SO del servidor:              Linux
 -- HeidiSQL Versión:             12.5.0.6677
+-- Editado por:			 Oswaldo Olguin
 -- --------------------------------------------------------
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
